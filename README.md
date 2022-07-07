@@ -8,6 +8,8 @@ create a one-to-many and a many-to-many relationship between objects, and answer
 Grading should be done via demonstrations again. Ask your students to give you a guided walkthrough of their sourcecode,
 as well as their running application.
 
+[Link to Demo App.](https://lc-java-4-demo.herokuapp.com/)
+
 ## Score your students' work based on the following criteria:
 
 ### Performance and Code Check:
